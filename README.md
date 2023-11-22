@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Your Name], a passionate [Your Field] enthusiast. I'm actively seeking collaboration opportunities and would love to connect with fellow developers, designers, and anyone interested in [Your Area of Interest].
+Hi there! I'm [Gaurav prajapati], a passionate [Computer science] enthusiast. I'm actively seeking collaboration opportunities and would love to connect with fellow developers, designers, and anyone interested in [Web devlopement].
 
 ## About Me
 
@@ -12,7 +12,7 @@ Hi there! I'm [Your Name], a passionate [Your Field] enthusiast. I'm actively se
 
 ## Skills
 
-- 💻 Programming Languages: [List your languages]
+- 💻 Programming Languages: [java]
 - 🛠 Tools & Technologies: [List your tools and technologies]
 - 🌐 Web Development: [List relevant web development skills]
 
@@ -26,7 +26,7 @@ Here are a few projects I'm proud of:
 Feel free to explore my repositories for more!
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm [Gaurav Prajapati], a passionate [ Computer science] enthusiast. I'm actively seeking collaboration opportunities and would love to connect with fellow developers, designers, and anyone interested in [Your Area of Interest].
+Hi there! I'm [Gaurav Prajapati], a passionate [ Computer science] enthusiast. I'm actively seeking collaboration opportunities and would love to connect with fellow developers, designers, and anyone interested in [web devlopement]
 
 ## About Me
 
@@ -38,7 +38,7 @@ Hi there! I'm [Gaurav Prajapati], a passionate [ Computer science] enthusiast. I
 
 ## Skills
 
-- 💻 Programming Languages: [List your languages]
+- 💻 Programming Languages: [java]
 - 🛠 Tools & Technologies: [List your tools and technologies]
 - 🌐 Web Development: [List relevant web development skills]
 
