@@ -64,7 +64,7 @@ If you have a project or idea that aligns with my interests, don't hesitate to r
 ## How to Reach Me
 
 - 📧 Email: your.email@example.com
-- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mr-gaurav-prajapati-4476ab27a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BVl%2BMVcatTHuMaOSQEflwkQ%3D%3D)
+- 💬 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mr-gaurav-prajapati)
 - 🐦 Twitter: [Your Twitter Handle](https://twitter.com/yourusername)
 
 Let's build something amazing together! 🚀
